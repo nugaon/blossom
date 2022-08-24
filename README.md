@@ -74,6 +74,7 @@ This environment will run a local bee node in development mode, on default ports
 
 There must be at least one postage stamp created. To create a postage stamp in the Bee node, run:
 
+
 ```bash
 curl -s -XPOST http://localhost:1635/stamps/10000000/18
 ```
